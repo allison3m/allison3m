@@ -16,7 +16,6 @@
   <img align="center" alt="HTML5" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="n8n" height="40" width="40" src="assets/images/n8n-icon.svg">
 
-">
 </div>
 
   
