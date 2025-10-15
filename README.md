@@ -6,8 +6,6 @@
   </a>
 </div>
 
-🧠 Technologies I Use
-
 <div style="display: inline_block"><br>
  🧠 Technologies I Use
 
