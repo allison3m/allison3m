@@ -1,5 +1,10 @@
 ## Hello, I'm Allison ! 👋
 
+💻 IT Technician at the Brazilian Air Force (DTCEA-TRM)  
+📚 Studying Systems Analysis and Development (UNINTER)  
+⚙️ Focused on automation, AI, and web development  
+🚀 Always improving my skills in Python, JavaScript and networking.  
+
 <div align="center">
   <a href="https://github.com/allison3m">
     <img src="https://github-readme-stats.vercel.app/api?username=allison3m&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
