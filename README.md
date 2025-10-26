@@ -16,6 +16,14 @@
   <img align="center" alt="JavaScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   <img align="center" alt="CSS3" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
+<div>
+  ### 🧠 Skills
+- 🐍 Python (automation, FastAPI, PySide6)  
+- 🌐 HTML, CSS, JavaScript  
+- 🔧 Network configuration and maintenance (Cisco, pfSense)  
+- 🧩 API integration and data handling  
+- 💾 Database: PostgreSQL, MySQL  
+</div>
 
 
   
