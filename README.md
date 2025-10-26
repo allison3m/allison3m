@@ -26,7 +26,7 @@
   <img align="center" alt="Windows Server" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg">
   <img align="center" alt="Linux" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
   <img align="center" alt="Zabbix" height="45" width="45" src="https://www.zabbix.com/favicon.ico">
-  <img align="center" alt="Cisco" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cisco/cisco-original.svg">
+  <img align="center" alt="Cisco CLI" height="45" width="45" src="https://upload.wikimedia.org/wikipedia/commons/6/64/Cisco_logo.svg">
 </div>
 
 
