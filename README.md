@@ -9,12 +9,11 @@
 
 <div align="center">
   <a href="https://github.com/allison3m">
-    <!-- Card de estatísticas -->
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=allison3m&show_icons=true&theme=tokyonight&include_all_commits=true"/>
-    <!-- Card de linguagens mais usadas -->
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=allison3m&show_icons=true&theme=tokyonight"/>
     <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allison3m&layout=compact&theme=tokyonight"/>
   </a>
 </div>
+
 
 ---
 
