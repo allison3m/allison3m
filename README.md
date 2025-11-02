@@ -1,4 +1,4 @@
-## Hello, I'm Allison! 👋  
+## Hi, I'm Allison! 👋  
 
 💻 IT Technician at the Brazilian Air Force (DTCEA-TRM)  
 📚 Studying Systems Analysis and Development (UNINTER)  
